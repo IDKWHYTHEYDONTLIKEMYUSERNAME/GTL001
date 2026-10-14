@@ -4,7 +4,7 @@
 
 ## About
 
-GTL001 is the first typeface released by [GTL Type Label](https://gtl.world) and was drawn by Eli Heuer.
+GTL001  is the first typeface released by [GTL Type Label](https://gtl.world) and was drawn by Eli Heuer.
 
 A 100/100 edition alpha release NFT was issued by GTL Type Label for this typeface, minting is live on Zora now: [https://create.zora.co/editions/0xb013e4f218760bb72f63f8d78a82b546c91897ef](https://create.zora.co/editions/0xb013e4f218760bb72f63f8d78a82b546c91897ef)
 
